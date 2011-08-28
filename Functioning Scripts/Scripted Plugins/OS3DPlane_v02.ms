@@ -19,7 +19,7 @@ classID:#(0x368166b5, 0x76ca9690)
 
  )
  
- rollout params "ThreadCyl"
+ rollout params "AnimPlane"
  (
   spinner totalHeight"TotalHeight"range:[0,10000,150]
   spinner heightSegs"SegHeight"range:[0.2,1000,100] 
